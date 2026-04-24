@@ -1,0 +1,44 @@
+[
+  {
+    "id": "declaration",
+    "title": "Declaration of Independence",
+    "author": "Thomas Jefferson",
+    "lang": "en",
+    "file": "declaration.txt"
+  },
+  {
+    "id": "promessi-sposi",
+    "title": "I Promessi Sposi",
+    "author": "Alessandro Manzoni",
+    "lang": "it",
+    "file": "promessi-sposi.txt"
+  },
+  {
+    "id": "the-last-signal",
+    "title": "The Last Signal",
+    "author": "Fiction",
+    "lang": "en",
+    "file": "the-last-signal.txt"
+  },
+  {
+    "id": "il-principe",
+    "title": "Il Principe",
+    "author": "Niccolò Machiavelli",
+    "lang": "it",
+    "file": "il-principe.txt"
+  },
+  {
+    "id": "the-art-of-war",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "lang": "en",
+    "file": "the-art-of-war.txt"
+  },
+  {
+    "id": "frankenstein",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "lang": "en",
+    "file": "frankenstein.txt"
+  }
+]
