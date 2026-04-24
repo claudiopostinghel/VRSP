@@ -176,11 +176,4 @@
     letter-spacing: 0.1em;
     color: rgba(240,237,232,0.45);
   }
-  .upload-card {
-    border-style: dashed;
-    border-color: #444;
-  }
-  .upload-card .card-title {
-    color: rgba(240,237,232,0.6);
-  }
 </style>

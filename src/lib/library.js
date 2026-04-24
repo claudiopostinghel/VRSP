@@ -16,6 +16,24 @@ The speed is measured in words per minute, or WPM. Average silent reading speed 
 Timing is also adaptive. Longer words stay on screen slightly longer because they take more time to process. Words followed by punctuation like commas, periods, or question marks receive an extra pause to let the brain register the end of a phrase or sentence. This mimics the natural rhythm of reading and prevents the experience from feeling robotic.
 
 RSVP is particularly effective on mobile devices where screen space is limited. A single word at a time needs almost no horizontal space, making it ideal for phones. There is no scrolling, no page turning, and no distraction from surrounding text. You simply hold, read, and let the words come to you.`
+  },
+  {
+    id: 'cos-e-rsvp',
+    title: "Cos'è l'RSVP?",
+    author: 'VRSP',
+    lang: 'it',
+    words: 350,
+    text: `La Rapid Serial Visual Presentation, o RSVP, è una tecnica di lettura che mostra il testo una parola alla volta in una posizione fissa sullo schermo. Invece di spostare gli occhi lungo righe e paragrafi, lo sguardo resta ancorato a un unico punto mentre le parole scorrono in sequenza. Questo elimina le saccadi, quei piccoli movimenti oculari rapidi che durante la lettura tradizionale consumano una quantità sorprendente di tempo.
+
+Il concetto nasce dalla ricerca in psicologia cognitiva negli anni Settanta, quando gli scienziati iniziarono a studiare la velocità con cui il cervello umano elabora il linguaggio scritto. Scoprirono che gran parte del tempo dedicato alla lettura non viene speso per comprendere le parole, ma per spostare fisicamente gli occhi da una parola all'altra. Eliminando questo sovraccarico meccanico, i lettori potevano assorbire il testo molto più velocemente senza perdere in comprensione.
+
+Un elemento chiave dei lettori RSVP moderni è il Punto di Riconoscimento Ottimale, o ORP. Ogni parola ha una lettera specifica su cui il cervello si fissa naturalmente per prima. Nelle parole corte tende a trovarsi vicino all'inizio, in quelle più lunghe si sposta leggermente verso il centro. Allineando questa lettera in una posizione fissa sullo schermo ed evidenziandola, il lettore riconosce ogni parola più rapidamente perché l'occhio non deve cercare dove mettere a fuoco.
+
+La velocità si misura in parole al minuto, o WPM. La velocità media di lettura silenziosa è di circa 200-250 WPM. Con l'RSVP molte persone raggiungono comodamente le 300-500 WPM dopo un breve periodo di adattamento. Alcuni utenti esperti superano le 600 WPM, anche se la comprensione può calare a velocità molto alte a seconda della complessità del materiale.
+
+Anche la temporizzazione è adattiva. Le parole più lunghe restano sullo schermo un po' di più perché richiedono più tempo per essere elaborate. Le parole seguite da punteggiatura come virgole, punti o punti interrogativi ricevono una pausa aggiuntiva per permettere al cervello di registrare la fine di una frase o di un periodo. Questo riproduce il ritmo naturale della lettura e impedisce che l'esperienza risulti meccanica.
+
+L'RSVP è particolarmente efficace sui dispositivi mobili dove lo spazio sullo schermo è limitato. Una sola parola alla volta non richiede quasi spazio orizzontale, il che lo rende ideale per gli smartphone. Non c'è scorrimento, non ci sono pagine da voltare e nessuna distrazione dal testo circostante. Basta tenere premuto, leggere e lasciare che le parole arrivino a te.`
   }
 ];
 
