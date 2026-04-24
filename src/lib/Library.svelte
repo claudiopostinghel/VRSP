@@ -45,9 +45,9 @@
   </header>
 
   <div class="lib-scroll">
-    {#if enTexts.length > 0}
-      <div class="section-label">English</div>
-      {#each enTexts as item}
+    {#if itTexts.length > 0}
+      <div class="section-label">Italiano</div>
+      {#each itTexts as item}
         <button class="card" onclick={() => onSelect(item)}>
           <div class="card-title">{item.title}</div>
           <div class="card-meta">
@@ -58,9 +58,9 @@
       {/each}
     {/if}
 
-    {#if itTexts.length > 0}
-      <div class="section-label">Italiano</div>
-      {#each itTexts as item}
+    {#if enTexts.length > 0}
+      <div class="section-label">English</div>
+      {#each enTexts as item}
         <button class="card" onclick={() => onSelect(item)}>
           <div class="card-title">{item.title}</div>
           <div class="card-meta">
